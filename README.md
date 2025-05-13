@@ -1,7 +1,14 @@
-ml_ops
+mlops
 ==============================
 
-ml_ops project by group_5
+mlops project by group_5
+
+teams
+- Thomas Renwick
+- Joy Zhong
+- Shadi Alfaraj
+- Yotaro Enomoto
+- Massimo Tassinari
 
 Project Organization
 ------------
